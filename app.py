@@ -5,7 +5,8 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_csv('E:\\Manu\\projects\\Projects_Others\\MyWork\github\\msr-py-app-test\\stocks.csv')
+
+df = pd.read_csv('https://github.com/msrawat78/msr-py-app-test/stocks.csv')
 
 app = dash.Dash(__name__)
 

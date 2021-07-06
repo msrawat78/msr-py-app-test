@@ -32,7 +32,6 @@ dash-html-components==1.1.1
 dash-renderer==1.8.3
 dash-table==4.11.0
 dask==2.1.0
-datashape==0.5.4
 decorator==4.4.0
 distributed==1.16.3
 docutils==0.13.1

@@ -6,7 +6,8 @@ import plotly.express as px
 import pandas as pd
 
 
-df = pd.read_csv('https://github.com/msrawat78/msr-py-app-test/stocks.csv')
+#df = pd.read_csv('https://github.com/msrawat78/msr-py-app-test/stocks.csv')
+df = pd.read_csv('stocks.csv')
 
 app = dash.Dash(__name__)
 
